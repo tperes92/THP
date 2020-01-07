@@ -1,0 +1,119 @@
+.nav {
+
+	display:flex;
+	justify-content:right;
+}
+
+.connexion
+{
+	color:white;
+	background: #547ED9;
+	height:20px;
+}
+
+.item{
+
+	padding:16px;
+	font-family:Futura;
+
+
+}
+
+.google {
+
+	display: flex;
+	align-items:flex-end;
+	justify-content:center;
+	padding:70px;
+	font-size: 500%;
+	font-family:Futura;
+}
+
+.g1{
+
+	color:#4285F4;
+}
+
+.o1{
+
+	color:#DB4437;
+}
+
+.o2{
+
+	color:#F4B400;
+}
+
+.g2{
+
+	color:#4285F4;
+}
+
+.l{
+
+	color:#0F9D58;
+}
+
+.e{
+
+	color:#DB4437;
+}
+
+
+#searchbar{
+    width:600px;
+	margin:auto;
+   	height:auto;
+   	border-radius:300px;
+
+}
+#searchbar .text{
+    width:300px;
+    float:justify;    
+}
+#searchbar .champ{
+    width:600px;
+    height:35px;
+    float:justify;
+}
+
+.nav2 {
+
+	display:flex;
+	justify-content:center;
+}
+
+.item2{
+
+	padding:15px;
+	margin:15px;
+	font-family:Futura;
+	color:#606060;
+	background-color:#CCCCCC; 
+}
+
+.nav3 {
+
+	display:flex;
+	justify-content:flex-start;
+	background-color:#CCCCCC;
+	margin-top:150px;
+	border:1px solid grey;
+	font-family:Futura;
+	color:#606060;
+
+
+}
+
+.nav4 {
+
+	display:flex;
+	justify-content:space-between;
+	background-color:#CCCCCC;
+	border:1px solid grey;
+	font-family:Futura;
+	color:#606060;
+
+
+
+}
